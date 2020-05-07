@@ -11,6 +11,13 @@ header {
   background-size: cover;
 }
 
+.headerAlt {
+  background: #26b7a0;
+  position: relative;
+  height: 14vh;
+  min-height: 100px;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.75);
   letter-spacing: 1px;
